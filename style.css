@@ -1,0 +1,37 @@
+
+h1{
+    text-align: center;
+
+color: darksalmon;
+}
+
+.allinput{
+    display: flex;
+    flex-direction: column;
+
+    display: grid;
+    grid-gap: 5px;
+}
+
+.inputf{
+  
+width: 250px;
+height: 25px;
+padding: 5px;
+margin: auto;
+}
+.loginform{
+    background-color: rgb(63, 88, 202);
+   width: 300px;
+   margin: auto;
+   padding: 10px;
+}
+.btn{
+    background-color: burlywood;
+    padding: 20px;
+    border: none;
+font-size:larger;
+font-weight: 700;
+    width: 250px;
+    border-radius: 5px;
+}
